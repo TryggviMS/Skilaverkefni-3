@@ -9,14 +9,14 @@ include './includes/random_background.php';
     <title>Japan Journey<?php echo "&#8212;{$title}"; ?></title>
     <link href="styles/journey.css" rel="stylesheet" type="text/css">
    
-         <style>
+       <style>
          #wrapper
             {
-            background-image:url('<?php echo $valinnBakgrunnur ?>');;
+            background-image:url('<?php echo $valinnBakgrunnur ?>');
               background-size:     cover; 
               background-repeat:no-repeat;        
               }
-        </style>       
+        </style>        
       
 </head>
 

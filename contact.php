@@ -12,7 +12,7 @@ include './includes/random_background.php';
     <style>
          #wrapper
             {
-            background-image:url('<?php echo $valinnBakgrunnur ?>');;
+            background-image:url('<?php echo $valinnBakgrunnur ?>');
               background-size:     cover; 
               background-repeat:no-repeat;        
               }
